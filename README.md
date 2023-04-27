@@ -6,4 +6,4 @@ This can also be termed as a combination of Google Classroom, Discord and WhatsA
 
 **The link for the website is : https://gaurangg123.github.io/WORP-SEPM_Project/**
 
-*currently it's still in developement mode and will keep updating in the fuuture as well.
+*currently it's still in developement mode and will keep updating in the future as well.
